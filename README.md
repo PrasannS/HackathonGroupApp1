@@ -7,3 +7,8 @@ IDEAS:
 
 Think about something towards the practical side. Something that has a real world usage, and don't be afraid to put in any ridiculous ideas, Lucas accidentally made some half decent ideas while joking. I don't want to take too much time on this so please, put in as much as you can ASAP. 
 
+Alarm Clock App where you have to solve a problem or do something that requires thinking in order to shut off the alarm so that you dont immediately go back to sleep. Similar to Mathe Alarm Clock but different.
+
+App to check if particular item can be recycled
+
+Pomodoro App
